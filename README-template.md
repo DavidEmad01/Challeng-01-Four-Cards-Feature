@@ -2,13 +2,6 @@
 
 This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
-
-  - [Screenshot](#screenshot)
-  - [Built with](#built-with)
-- [Author](#author)
-
-
 ### Screenshot
 
 !(./my design/four cards mobile.png)
@@ -19,6 +12,11 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+
+## Links
+- Live Site URL: https://davidemad01.github.io/Challeng-01-Four-Cards-Feature/
+
 
 ## Author
 - Frontend Mentor - [@DavidEmad01](https://www.frontendmentor.io/profile/DavidEmad01)

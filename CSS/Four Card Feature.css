@@ -145,6 +145,10 @@ header p:last-of-type {
     flex-direction: row-reverse;
 }
 
+.team .container div section img {
+    width: 80px;
+}
+
 @media (max-width: 767px) {
     .team {
         margin: auto;
@@ -159,22 +163,3 @@ header p:last-of-type {
     }
 }
 /* End Team */
-
-
-
-
-
-
-
-
-
-
-
-
-
-.test {
-    /* Neutral */
-    color: 
-    
-    hsl(0, 0%, 98%);
-}
