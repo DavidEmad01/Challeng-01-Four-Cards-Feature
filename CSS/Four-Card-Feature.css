@@ -107,7 +107,7 @@ header p:last-of-type {
     width: calc(100% - 30px);
 }
 
-.team .container div div {
+.team .container div .child {
     background-color: white;
     border-top: 3.5px solid;
     border-radius: 5px;
@@ -151,13 +151,13 @@ header p:last-of-type {
     line-height: 1.6;
 }
 
-.team .container div section {
+.team .container div .image {
     margin-top: 30px;
     display: flex;
     flex-direction: row-reverse;
 }
 
-.team .container div section img {
+.team .container div .image img {
     width: 60px;
 }
 
@@ -185,11 +185,15 @@ header p:last-of-type {
     }
 
     header {
-        padding-top: 0px;
+        padding-top: 10px;
         margin-bottom: 60px;
     }
 
-    .team .container div div {
+    .team .container div .child {
         padding-left: 30px;
+    }
+
+    .team {
+        padding-top: 5px;
     }
 }
