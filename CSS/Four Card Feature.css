@@ -183,6 +183,10 @@ header p:last-of-type {
         margin: inherit 170px;
     }
 
+    header {
+        padding-top: 5px;
+    }
+
     .team .container div div {
         padding-left: 30px;
     }
