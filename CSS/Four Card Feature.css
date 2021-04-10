@@ -181,10 +181,12 @@ header p:last-of-type {
 @media (min-width:1200px) {
     header, .team {
         margin: inherit 170px;
+        margin-left: 5px;
     }
 
     header {
-        padding-top: 5px;
+        padding-top: 0px;
+        margin-bottom: 60px;
     }
 
     .team .container div div {
