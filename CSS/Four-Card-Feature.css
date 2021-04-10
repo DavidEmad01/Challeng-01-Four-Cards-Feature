@@ -185,7 +185,7 @@ header p:last-of-type {
     }
 
     header {
-        padding-top: 10px;
+        padding-top: 5px;
         margin-bottom: 60px;
     }
 
@@ -194,6 +194,6 @@ header p:last-of-type {
     }
 
     .team {
-        padding-top: 5px;
+        padding-top: 2.5px;
     }
 }
